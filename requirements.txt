@@ -1,7 +1,9 @@
 streamlit==1.32.0
+streamlit==1.32.0
 langchain==0.1.13
 langchain-google-genai==1.0.1
 faiss-cpu
 PyPDF2==3.0.1
 spacy==3.7.4
 python-dotenv==1.0.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
